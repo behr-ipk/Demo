@@ -1,3 +1,5 @@
+var storeValues = "storeValues1";
+
 $(document).ready(function() {
 
 let values = getUrlVars();
