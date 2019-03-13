@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="jquery-3.1.1.min.js"></script>
+    <script src="tincan.js"></script>
+    <script src="main.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <div class="mailto">User:</div>
+    <div class="contentName">Content Name:</div>
+    <div class="appceleratorId">Appcelerator Id:</div>
+    <div class="section">Section:</div>
+    <div class="category">Category:</div>
+    <div class="catId">Category ID:</div>
+    <div class="subCategory">Sub Category:</div>
+    <div class="subCatId">Sub Category ID:</div>
+</br>
+<h3>Here are the parameter variable names to pass values: mailto, contentName, appceleratorId,
+     section, category, catId, subCategory, subCatId</h3>
+<p> Miracle. Eureka! :D</p>
+    <p> This HTML was unzipped and hosted on GITHUB. We could do that in production as well. The URL should necessarily be hosted as http:// or https:// on the panel side </p>
+
+    
+</body>
+</html>
+
+<!-- ?mailto=bfloyd@behrpaint.com&contentName=This%20test%20content%20&
+appceleratorId=http://ipk.behr.com/aldjjfafji498489th&section=iTeach&
+parentCategory=paint&subCategory=marine%10paint -->
